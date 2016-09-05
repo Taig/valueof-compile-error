@@ -1,0 +1,1 @@
+addSbtPlugin( "io.taig" % "sbt-scalariform" % "1.7.0" )
